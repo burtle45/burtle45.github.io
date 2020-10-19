@@ -1,0 +1,54 @@
+html, body {font-family: sans-serif;}
+
+div.clear { clear: both; }
+h1 {font-size:160%; font-weight:normal; color:#246a1b; margin:-5px 0 0 0;}
+h2 {font-size:115%; font-weight:bold; color:#f97d00;}
+
+#container {margin:50px auto 0 auto; width:692px; height:auto;}
+
+#phone {float:left; width:188px; height:auto; margin-top:125px;text-align:center;}
+#phone .small {margin: 0 2px 0 0;}
+#phone a {display: block; font-size: 160%;font-weight:normal;color: #246a1b;margin: -2px 0 0 0;}
+
+#logo {float:left; width:251px; height:145px; }
+#bar {float:left; margin-top:-14px; width:382px; height:14px; background: url('../images/bar.jpg');}
+#bar2 {float:right; width:302px; height:39px; background: url('../images/bar2.jpg');}
+#box {margin:20px 0 0 0;}
+li {font-size:90%;}
+
+#nav {float:left; padding:18px 0 0 3px; width:177px; height:201px; background: url('../images/navbg.jpg');}
+#nav a { background: url('../images/nav.jpg'); float:left; height:25px; width:174px; display:inline; text-decoration:none; }
+#nav a.home { background-position:0px 0px; width:174px; }
+#nav a:hover.home { background-position:174px 0px; }
+#nav a.contactus { background-position:0px 150px; width:174px; margin-top:6px;}
+#nav a:hover.contactus { background-position:174px 150px; }
+#nav a.services { background-position:0px 118px; width:174px; margin-top:6px;}
+#nav a:hover.services { background-position:174px 118px; }
+#nav a.construction { background-position:0px 87px; width:174px; margin-top:6px;}
+#nav a:hover.construction { background-position:174px 87px; }
+#nav a.support { background-position:0px 57px; width:174px; margin-top:6px;}
+#nav a:hover.support { background-position:174px 57px; }
+#nav a.associates{ background-position:0px 25px; width:174px; margin-top:6px;}
+#nav a:hover.associates { background-position:174px 25px; }
+
+#content {float:left; width:490px; height:auto; padding-left:20px; }
+#content h1 {font-size:115%;font-weight:bold;color:#f97d00;margin-block-start: 1em;margin-block-end: 1em;}
+
+#box #content #left {float:left; width:245px; height:auto;}
+#box #content #right {float:right; width:245px; height:auto;}
+#box #content #left1 {float:left; width:125px; height:auto;}
+#box #content #right1 {float:right; width:350px; height:auto;}
+
+a {color:#f97d00; text-decoration:none; font-weight:bold;}
+a:hover {text-decoration:underline;}
+.bold {font-weight:bold;}
+.regular {font-size:90%;}
+.small {font-size:80%; margin-left:52px;}
+.copy {font-size:70%;}
+.indent {margin-left:20px; font-size:90%;}
+.indent2 {margin-left:20px; font-size:90%; color:#f97d00;}
+.indent3 {margin-left:20px; font-size:80%; font-weight:bold;}
+.indent4 {margin-left:20px; font-size:80%;}
+.bold2 { font-weight:bold; color:#f97d00;}
+
+#footer {float:left; width:692px; height:15px; background: url('../images/bar3.jpg') no-repeat; margin-top:20px; text-align:center;}
