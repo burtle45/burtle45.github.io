@@ -44,7 +44,7 @@ a:hover {text-decoration:underline;}
 .bold {font-weight:bold;}
 .regular {font-size:90%;}
 .small {font-size:80%; margin-left:52px;}
-.copy {font-size:70%;}
+.copy {font-size:70%;margin-top:18px;}
 .indent {margin-left:20px; font-size:90%;}
 .indent2 {margin-left:20px; font-size:90%; color:#f97d00;}
 .indent3 {margin-left:20px; font-size:80%; font-weight:bold;}
